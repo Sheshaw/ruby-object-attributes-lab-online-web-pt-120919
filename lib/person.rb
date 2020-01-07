@@ -16,4 +16,7 @@ class Dog
   def breed
     @breed
   end
+  
+    fido.name
+    
 end
