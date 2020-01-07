@@ -9,5 +9,4 @@ class Dog
     @dog_name
   end
 
-  name = ("Fido")
 end
