@@ -17,6 +17,6 @@ class Dog
     @breed
   end
   
-  
+  name=("Fido")
     
 end
