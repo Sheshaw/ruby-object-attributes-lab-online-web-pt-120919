@@ -8,7 +8,7 @@ class Dog
   def name
     @dog_name
   end
-  fido.instance_variable_get(:@dog_name)
+  Fido.instance_variable_get(:@dog_name)
   
   def breed=(command_for_the_dog_to_breed)
     @breed_command = "Breed"
